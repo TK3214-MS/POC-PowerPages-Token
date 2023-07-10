@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "POC_B2C_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7179",
+      "launchBrowser": false
+    }
+  }
+}
